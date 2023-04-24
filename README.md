@@ -1,2 +1,2 @@
-Research Topic - Enhancing DevOps Infrastructure for Efficient Management of Microservice Applications
+**Research Topic - Enhancing DevOps Infrastructure for Efficient Management of Microservice Applications**
 
